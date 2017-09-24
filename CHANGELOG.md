@@ -9,3 +9,7 @@
 * Upgrade maven javadoc plugin 2.10.4
 * Upgrade maven gpg plugin to 1.6
 * Upgrade license maven plugin to 3.0
+
+# 1.1.1
+
+* Move source, javadoc, gpg and license maven plugins into bekioui-release profile
